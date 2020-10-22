@@ -1,0 +1,29 @@
+<html>
+
+<body>
+
+
+
+<h2>Penguin</h2>
+
+<p>click one of the panguin and see more informations</p>
+
+
+
+<img src="3.jpg" alt="3" usemap="#3map" >
+
+
+
+<map name="3map">
+
+  <area shape="circle" coords="540,540,150" alt="4" href="4.html">
+
+  <area shape="circle" coords="1000,540,150" alt="5" href="5.html">
+
+</map>
+
+
+
+</body>
+
+</html>
